@@ -1,4 +1,4 @@
-**AI-Powered Voice Recognition for Arduino LEDs**
+# AI-Powered Voice Recognition for Arduino LEDs
 
 Projenin dört aşaması var:
 
